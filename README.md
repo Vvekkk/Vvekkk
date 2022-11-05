@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvekkk&label=Profile%20views&color=0e75b6&style=flat" alt="vvekkk" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vvekkk.github.io/React-Portfolio/](https://github.com/Vvekkk?tab=repositories)
+- 👨‍💻 All of my projects are available at [vvekkk.github.io/React-Portfolio/](vvekkk.github.io/React-Portfolio/)
 
 - ⚡ Fun fact **I'm also a competitive gamer and Weeb**
 
